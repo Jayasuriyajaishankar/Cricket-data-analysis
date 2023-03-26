@@ -6,6 +6,7 @@ To create a unbeatable team of 11 players who should have the capability to defe
 
 
 PLAYER SELECTION CRITERIA:
+
     OPENERS:
     (Batting Average >30,
     Strike Rate     >140,
